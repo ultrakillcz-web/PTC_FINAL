@@ -1,6 +1,22 @@
 # PTC_FINAL
 Final Procedure for Creating PTC (Procedure Test Cases)
 
+## 📚 Documentation Index
+
+**Quick Start:**
+- 🚀 [Quick Reference Guide](QUICK_REFERENCE.md) - Fast reference for common tasks
+- ✅ [Creation Checklist](CHECKLIST.md) - Step-by-step checklist
+
+**Templates & Examples:**
+- 📋 [PTC Template](PTC_TEMPLATE.md) - Empty template to get started
+- 📖 [Example PTC](EXAMPLE_PTC.md) - Complete filled example
+- 📁 [PTC Cases Directory](ptc_cases/) - Store your PTCs here
+
+**Complete Guide:**
+- 📘 This document (README.md) - Full procedure documentation
+
+---
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Prerequisites](#prerequisites)

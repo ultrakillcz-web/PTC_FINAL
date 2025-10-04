@@ -3,6 +3,9 @@ Final Procedure for Creating PTC (Procedure Test Cases)
 
 ## 📚 Documentation Index
 
+**New to PTC?**
+- 🎯 [Getting Started Guide](GETTING_STARTED.md) - Your first PTC in 30 minutes
+
 **Quick Start:**
 - 🚀 [Quick Reference Guide](QUICK_REFERENCE.md) - Fast reference for common tasks
 - ✅ [Creation Checklist](CHECKLIST.md) - Step-by-step checklist
